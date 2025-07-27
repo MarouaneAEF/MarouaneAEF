@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/MarouaneAEF/MarouaneAEF/blob/main/banner_marouane.JPG" alt="Bannière Marouane Ait El Faqir" width="100%" />
+</p>
+
+
 # 👋 Hello, moi c’est Marouane !
 
 🎓 Ingénieur en Machine Learning à forte dominante scientifique, je conçois des solutions intelligentes à l'intersection de la R&D et de la mise en production. Passionné par les modèles probabilistes, le deep learning, et l'optimisation, je développe des architectures robustes pour la détection d'anomalies, les modèles génératifs, et l'apprentissage non supervisé.
