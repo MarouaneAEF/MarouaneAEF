@@ -1,49 +1,43 @@
-<h1 align="center">Marouane Ait El Faqir</h1>
-<p align="center">
-🎯 Machine Learning Engineer • Deep Learning • Probabilistic Modeling • MLOps <br>
-💼 En formation chez DataScientest (certif. RNCP) – 735h, full-time <br>
-🚀 Objectif : Transitionner vers un poste en CDI, MLOps ou ML R&D
-</p>
+# 👋 Hello, moi c’est Marouane !
+
+🎓 Ingénieur en Machine Learning à forte dominante scientifique, je conçois des solutions intelligentes à l'intersection de la R&D et de la mise en production. Passionné par les modèles probabilistes, le deep learning, et l'optimisation, je développe des architectures robustes pour la détection d'anomalies, les modèles génératifs, et l'apprentissage non supervisé.
+
+🎯 Objectif actuel : maîtriser les outils MLOps pour un passage à l’échelle.
 
 ---
 
-## 👋 À propos
+## 💼 Ce que je fais
 
-Je suis ingénieur Machine Learning avec une forte dominante scientifique, formé à la modélisation probabiliste, au deep learning et à l'optimisation.  
-Après une thèse et plusieurs années en R&D, je me spécialise aujourd’hui dans les pipelines de production ML/MLOps.
+🔍 **Modélisation probabiliste & détection d’anomalies**
+- [GMM-VAE](https://github.com/MarouaneAEF/GMM-VAE) : VAE avec clustering GMM pour la détection non supervisée.
+- [BiGAN-based Anomaly Detector](https://github.com/MarouaneAEF/BiGAN-based-Anomaly-Detector) : Détection avec réseaux adversariaux bidirectionnels.
+- [Expectation-Maximization](https://github.com/MarouaneAEF/Expectation-Maximization) : Implémentation maison de l’algorithme EM.
 
-Ma philosophie : concevoir des solutions robustes et explicables, à la croisée de la recherche et du déploiement opérationnel.
+🧠 **Recherche appliquée**
+- [Neural-E-M](https://github.com/MarouaneAEF/Neural-E-M-) : Algorithme hybride entre réseaux de neurones et Expectation-Maximization.
+- [L1BSR](https://github.com/MarouaneAEF/L1BSR) : Reconstruction d’image via régularisation L1.
 
----
-
-## 🔧 Compétences techniques
-
-- **Langages** : Python, Bash, SQL
-- **Modélisation** : PyTorch, TensorFlow, Sklearn, Scipy, statsmodels
-- **MLOps** : MLflow, Docker, Git, GitHub Actions, AWS (S3, SageMaker – en cours)
-- **Cloud & Infra** : AWS (en montée en compétence), Linux
-- **Structuration de projets** : POO, pipelines, tests, CI/CD
-
----
-
-## 📂 Repos en avant
-
-| Projet | Description |
-|--------|-------------|
-| [GMM-VAE](https://github.com/MarouaneAEF/GMM-VAE) | Modèle génératif hybride GMM + VAE pour clustering probabiliste |
-| [BiGAN Anomaly Detector](https://github.com/MarouaneAEF/BiGAN-based-Anomaly-Detector) | Détection d'anomalies basée sur BiGAN |
-| [Neural E-M](https://github.com/MarouaneAEF/Neural-E-M-) | Implémentation différentiable de l’algorithme EM |
-| [Expectation-Maximization](https://github.com/MarouaneAEF/Expectation-Maximization) | Algorithme EM classique appliqué à des cas jouets |
-| [L1BSR](https://github.com/MarouaneAEF/L1BSR) | Algorithme de super-résolution basé sur L1-normes |
+📈 **MLOps / Mise en production** *(en cours de formation)*
+- Suivi de modèles avec MLflow
+- Déploiement sur AWS avec SageMaker
+- Tests unitaires, CI/CD, conteneurisation
 
 ---
 
-## 🌍 Me contacter
+## 🌐 Mon écosystème
 
-- 🌐 Site web : [marouaneaef.github.io](https://marouaneaef.github.io)
-- 💼 LinkedIn : (http://linkedin.com/in/marouane-a-87938ab9) 
-- ✉️ Email : m.aitelfaqir@gmail.com
+- 🧠 Doctorat en ingénierie, 5+ ans en modélisation mathématique et data science
+- 🚀 En reconversion vers un poste **ML Engineer / MLOps / R&D en IA appliquée**
+- 🤝 Ouvert aux **opportunités en CDI ou freelance**
 
 ---
 
-🧠 *Toujours partant pour échanger sur des projets, une collab' ou des opportunités ML/MLOps.*
+## 📫 Me contacter
+
+- 🌍 [marouaneaef.github.io](https://marouaneaef.github.io) – Portfolio en ligne
+- 📨 m.aitelfaqir@gmail.com – Contact direct
+- 💼 [LinkedIn](http://linkedin.com/in/marouane-a-87938ab9) – Connectons-nous
+
+---
+
+*“Build things that matter. Learn fast. Stay curious.”*
