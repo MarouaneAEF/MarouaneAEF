@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarouaneAEF/MarouaneAEF/blob/main/marouane-banner.png" alt="Bannière Marouane Ait El Faqir" width="100%" />
+  <img src="https://github.com/MarouaneAEF/MarouaneAEF/blob/main/marouane-banner.PNG" alt="Bannière Marouane Ait El Faqir" width="100%" />
 </p>
 
 # 👋 Hello, moi c’est Marouane!
