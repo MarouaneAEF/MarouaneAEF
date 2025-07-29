@@ -2,46 +2,35 @@
   <img src="https://github.com/MarouaneAEF/MarouaneAEF/blob/main/marouane-banner.PNG" alt="Bannière Marouane Ait El Faqir" width="100%" />
 </p>
 
-# 👋 Hello, moi c’est Marouane!
+👋 Hey there!
+🎓 I'm a Machine Learning Engineer with a strong scientific background. I design intelligent solutions at the crossroads of R&D and real-world deployment. Passionate about probabilistic models, deep learning, and optimization, I build robust architectures for anomaly detection, generative modeling, and unsupervised learning.
 
-🎓 Ingénieur en Machine Learning à forte dominante scientifique, je conçois des solutions intelligentes à l'intersection de la R&D et de la mise en production. Passionné par les modèles probabilistes, le deep learning, et l'optimisation, je développe des architectures robustes pour la détection d'anomalies, les modèles génératifs, et l'apprentissage non supervisé.
+🎯 Current focus: mastering MLOps tools to scale ML systems efficiently.
 
-🎯 Objectif actuel : maîtriser les outils MLOps pour un passage à l’échelle.
+💼 What I do
+🔍 Probabilistic Modeling & Anomaly Detection
 
----
+GMM-VAE: Variational Autoencoder with GMM clustering for unsupervised anomaly detection
+BiGAN-based Anomaly Detector: Detection using Bidirectional GANs
+Expectation-Maximization: Custom implementation of the EM algorithm
+🧠 Applied Research
 
-## 💼 Ce que je fais
+Neural-E-M: Hybrid algorithm combining neural networks and Expectation-Maximization
+L1BSR: Image reconstruction using L1 regularization
+📈 MLOps / Production-Grade ML (in progress)
 
-🔍 **Modélisation probabiliste & détection d’anomalies**
-- [GMM-VAE](https://github.com/MarouaneAEF/GMM-VAE) : VAE avec clustering GMM pour la détection non supervisée.
-- [BiGAN-based Anomaly Detector](https://github.com/MarouaneAEF/BiGAN-based-Anomaly-Detector) : Détection avec réseaux adversariaux bidirectionnels.
-- [Expectation-Maximization](https://github.com/MarouaneAEF/Expectation-Maximization) : Implémentation maison de l’algorithme EM.
+Model tracking with MLflow
+Deployment on AWS using SageMaker
+Unit testing, CI/CD, and containerization
+🌐 My ecosystem
+🧠 PhD in Engineering, 5+ years of experience in mathematical modeling and data science
+🚀 Transitioning into roles as ML Engineer / MLOps / Applied AI R&D
+🤝 Open to full-time and freelance opportunities
 
-🧠 **Recherche appliquée**
-- [Neural-E-M](https://github.com/MarouaneAEF/Neural-E-M-) : Algorithme hybride entre réseaux de neurones et Expectation-Maximization.
-- [L1BSR](https://github.com/MarouaneAEF/L1BSR) : Reconstruction d’image via régularisation L1.
+📫 Reach out
+🌍 marouaneaef.github.io – Online portfolio
+📨 m.aitelfaqir@gmail.com – Direct contact
+💼 LinkedIn – Let’s connect
 
-📈 **MLOps / Mise en production** *(en cours de formation)*
-- Suivi de modèles avec MLflow
-- Déploiement sur AWS avec SageMaker
-- Tests unitaires, CI/CD, conteneurisation
+"Build things that matter. Learn fast. Stay curious."
 
----
-
-## 🌐 Mon écosystème
-
-- 🧠 Doctorat en ingénierie, 5+ ans en modélisation mathématique et data science
-- 🚀 En reconversion vers un poste **ML Engineer / MLOps / R&D en IA appliquée**
-- 🤝 Ouvert aux **opportunités en CDI ou freelance**
-
----
-
-## 📫 Me contacter
-
-- 🌍 [marouaneaef.github.io](https://marouaneaef.github.io) – Portfolio en ligne
-- 📨 m.aitelfaqir@gmail.com – Contact direct
-- 💼 [LinkedIn](http://linkedin.com/in/marouane-a-87938ab9) – Connectons-nous
-
----
-
-*“Build things that matter. Learn fast. Stay curious.”*
