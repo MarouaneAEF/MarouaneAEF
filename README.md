@@ -2,7 +2,7 @@
   <img src="https://github.com/MarouaneAEF/MarouaneAEF/blob/main/marouane-banner.PNG" alt="Bannière Marouane Ait El Faqir" width="100%" />
 </p>
 
-# Bonjour 
+# Bonjour 👋
 
 🎓 **Machine Learning Engineer** with a strong scientific background.  
 I design intelligent solutions at the crossroads of **R&D** and **production**.  
